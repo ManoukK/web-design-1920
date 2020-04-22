@@ -1,9 +1,168 @@
+/* :root {
+    --Lgeel1: #f5e619;
+    --Lgroen2: #a0db43;
+    --Dgroen3: #5fc869;
+    --Lblauw4: #40bfb8;
+    --blauw5: #28a4da;
+    --Dblauw6: #518cd8;
+    --paars7: #d06cb2;
+    --roze8: #e84861;
+    --rood9: #ee491c;
+    --oranje10: #f26f07;
+    --Dgeel11: #f4a900;
+    --geel12: #eecf02;
+} */
+
+:root {
+    --Lgeel1: #aba111;
+    --Lgroen2: #70992e;
+    --Dgroen3: #428c49;
+    --Lblauw4: #2c8580;
+    --blauw5: #1c7298;
+    --Dblauw6: #386297;
+    --paars7: #914b7c;
+    --roze8: #a23243;
+    --rood9: #a63313;
+    --oranje10: #a94d04;
+    --Dgeel11: #aa7600;
+    --geel12: #a69001;
+    /* --accentColor: #925946; */
+    --accentColor: #232c27;
+    --focusColor: #fac240;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+*:focus {
+    outline: none;
+    box-shadow: 0 0 0 5px var(--focusColor);
+    font-size: 1.5em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding: 1em;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+}
+
 li {
     list-style-type: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+main > a {
+    display: block;
+    background-color: var(--accentColor);
+    margin: 2em auto;
+    text-align: center;
+    padding: 2em 0em;
+    width: 50%;
 }
 
 .icons {
     width: 1em;
     height: 1em;
+}
 
+.inleiding {
+    color: white;
+}
+
+section {
+    color: black;
+    padding: 2em;
+    margin: auto;
+    width: 50%;
+}
+
+.oktober {
+    background-color: var(--Lgeel1);
+}
+
+.november {
+    background-color: var(--Lgroen2);
+}
+
+.december {
+    background-color: var(--Dgroen3);
+}
+
+.januari {
+    background-color: var(--Lblauw4);
+}
+
+.februari {
+    background-color: var(--blauw5);
+}
+
+.maart {
+    background-color: var(--Dblauw6);
+}
+
+.april {
+    background-color: var(--paars7);
+}
+
+.mei {
+    background-color: var(--roze8);
+}
+
+.juni {
+    background-color: var(--rood9);
+}
+
+.juli {
+    background-color: var(--oranje10);
+}
+
+.augustus {
+    background-color: var(--Dgeel11);
+}
+
+.september {
+    background-color: var(--geel12);
+}
+
+.maandag {
+    margin-top: 2em;
+    background-color: var(--Lgeel1);
+}
+
+.dinsdag {
+    margin-top: 2em;
+    background-color: var(--Lgroen2);
+}
+
+.woensdag {
+    margin-top: 2em;
+    background-color: var(--Dgroen3);
+}
+
+.donderdag {
+    margin-top: 2em;
+    background-color: var(--Lblauw4);
+}
+
+.vrijdag {
+    margin-top: 2em;
+    background-color: var(--blauw5);
+}
+
+.zaterdag {
+    margin-top: 2em;
+    background-color: var(--Dblauw6);
+}
+
+.zondag {
+    margin-top: 2em;
+    background-color: var(--paars7);
 }
