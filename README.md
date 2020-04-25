@@ -1,4 +1,4 @@
-# titel
+# Een website exclusief voor Larissa
 
 ## Opdracht
 Het is de bedoeling dat we een website gaan maken speciaal voor iemand. Ik kreeg Larissa toegewezen. Zij is een student aan het HvA en een topsporter in fietsen. Zij is ook blind en voor haar kan het web best vervelend zijn. 
