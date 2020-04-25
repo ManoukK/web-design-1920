@@ -14,17 +14,17 @@ Ik heb tijdens de testsessies veel geluisterd naar haar feedback, ook als ze die
 Wij hadden met Larissa 3 test sessies. Elke test sessie heb ik uitgetypt in mijn wiki en op de feedback die ik kreeg ben ik weer door gaan itereren. 
 
 De eerste testsessie was vooral een kennismaking. Ik had nog niet veel om te laten zien en wilde dan ook vooral weten wie Larissa is, wat ze doet en wat ze leuk vind. Aan de hand van die informatie heb ik een scenario gemaakt over larissa en haar situatie wat betreft haar week en jaar schema. Daarnaast heb ik ook de belangrijkste bevindingen opgeschreven in mijn wiki.  
-[User scenario](https://github.com/ManoukK/web-design-1920/wiki/User-Scenario-van-Larissa)
-[Bevindingen test 1](https://github.com/ManoukK/web-design-1920/wiki/User-test-week-1)
+- [User scenario](https://github.com/ManoukK/web-design-1920/wiki/User-Scenario-van-Larissa)
+- [Bevindingen test 1](https://github.com/ManoukK/web-design-1920/wiki/User-test-week-1)
 
 Vervolgens ben ik gaan itereren. Omdat ik eigenlijk nog bijna niks had heb ik dit niet gedocumenteerd. Ik heb vooral veel dingen toegevoegd die naar voren kwamen bij de test. Tijdens de tweede test had ik nu wel mijn website laten zien. Ik had een opdracht voor haar en wilde vooral weten wat ze ervan vond en wat er beter kon. Anderen hadden hetzelfde idee waardoor we met z’n alle ontzettend veel informatie verzamelde waar we weer met z’n alle op door konden borduren. 
-[Bevindingen test 2](https://github.com/ManoukK/web-design-1920/wiki/User-test-week-2)
+- [Bevindingen test 2](https://github.com/ManoukK/web-design-1920/wiki/User-test-week-2)
 
 Vervolgens ben ik weer gaan itereren. Het leek mij ook handig om dit te documenteren. Hierin vertel ik ook waarom ik bepaalde keuzes heb gemaakt en hoe ik daarbij ben gekomen. Dit was een best grote iteretie omdat we in de tweede test veel informatie kregen dus ik wilde graag laten zien wat ik allemaal had toegepast. 
-[Iteraties](https://github.com/ManoukK/web-design-1920/wiki/Iteratie-van-test-2-naar-test-3)
+- [Iteraties](https://github.com/ManoukK/web-design-1920/wiki/Iteratie-van-test-2-naar-test-3)
 
 Tijdens de derde en laatste test kreeg ik weer veel feedback maar het was vooral positief. Er waren nog een aantal kleine dingetjes die ik kon aanpassen. De feedback van anderen waren nu allemaal heel gericht. Hierdoor had ik er zelf niet veel meer aan en zoals dat anderen niet veel meer hadden aan de feedback die ik kreeg. 
-[Bevindingen test 3](https://github.com/ManoukK/web-design-1920/wiki/User-test-week-3)
+- [Bevindingen test 3](https://github.com/ManoukK/web-design-1920/wiki/User-test-week-3)
 - Iteraties: 
 
 ## Eind product
