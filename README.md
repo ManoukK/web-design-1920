@@ -30,6 +30,11 @@ Tijdens de derde en laatste test kreeg ik weer veel feedback maar het was vooral
 ## Eind product
 
 ## Bronnen
+- De design princiepes voor exclusive design: 
+- Emoji's in in html door een code: 
+- Kleuren pallete (kleuren zelf donkerder gemaakt):
+- Emoji afbeeldingen:
+- Het schema van Larissa gekregen van haarzelf. 
 
 ## Credits
 - Larissa voor al haar feedback en het testen.
