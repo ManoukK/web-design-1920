@@ -29,6 +29,10 @@ Tijdens de derde en laatste test kreeg ik weer veel feedback maar het was vooral
 
 ## Eind product
 
+## Features
+- [] Een pagina met alle events van het jaar en daarin de planning die erbij hoort
+- [] Positieve berichten met javascript dynamisch maken zodat ze elke dag iets anders krijgt te horen
+
 ## Bronnen
 - De design princiepes voor exclusive design: 
 - Emoji's in in html door een code: 
