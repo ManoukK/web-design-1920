@@ -25,19 +25,19 @@ Vervolgens ben ik weer gaan itereren. Het leek mij ook handig om dit te document
 
 Tijdens de derde en laatste test kreeg ik weer veel feedback maar het was vooral positief. Er waren nog een aantal kleine dingetjes die ik kon aanpassen. De feedback van anderen waren nu allemaal heel gericht. Hierdoor had ik er zelf niet veel meer aan en zoals dat anderen niet veel meer hadden aan de feedback die ik kreeg. 
 - [Bevindingen test 3](https://github.com/ManoukK/web-design-1920/wiki/User-test-week-3)
-- Iteraties: 
+- Iteraties: https://github.com/ManoukK/web-design-1920/wiki/Iteratie-van-test-3,-laatste-iteratie
 
 ## Eind product
 
 ## Features
 - [] Een pagina met alle events van het jaar en daarin de planning die erbij hoort
-- [] Positieve berichten met javascript dynamisch maken zodat ze elke dag iets anders krijgt te horen
+- [x] Positieve berichten met javascript dynamisch maken zodat ze elke dag iets anders krijgt te horen
 
 ## Bronnen
-- De design princiepes voor exclusive design: 
-- Emoji's in in html door een code: 
+- De design principes voor exclusive design: https://exclusive-design.vasilis.nl/
+- Emoji's in in html door een code: https://www.w3schools.com/charsets/ref_emoji.asp
 - Kleuren pallete (kleuren zelf donkerder gemaakt):
-- Emoji afbeeldingen:
+- Emoji afbeeldingen: https://emojipedia.org/emojidex/
 - Het schema van Larissa gekregen van haarzelf. 
 
 ## Credits
