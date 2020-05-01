@@ -25,7 +25,7 @@ Vervolgens ben ik weer gaan itereren. Het leek mij ook handig om dit te document
 
 Tijdens de derde en laatste test kreeg ik weer veel feedback maar het was vooral positief. Er waren nog een aantal kleine dingetjes die ik kon aanpassen. De feedback van anderen waren nu allemaal heel gericht. Hierdoor had ik er zelf niet veel meer aan en zoals dat anderen niet veel meer hadden aan de feedback die ik kreeg. 
 - [Bevindingen test 3](https://github.com/ManoukK/web-design-1920/wiki/User-test-week-3)
-- Iteraties: https://github.com/ManoukK/web-design-1920/wiki/Iteratie-van-test-3,-laatste-iteratie
+- [Iteraties](https://github.com/ManoukK/web-design-1920/wiki/Iteratie-van-test-3,-laatste-iteratie)
 
 ## Eind product
 #### Hoofdpagina met dagplanning
