@@ -28,12 +28,23 @@ Tijdens de derde en laatste test kreeg ik weer veel feedback maar het was vooral
 - Iteraties: https://github.com/ManoukK/web-design-1920/wiki/Iteratie-van-test-3,-laatste-iteratie
 
 ## Eind product
+#### Hoofdpagina met dagplanning
+![Schermafbeelding 2020-05-01 om 15 40 58](https://user-images.githubusercontent.com/45541885/80809616-55587c00-8bc2-11ea-853e-7a2117d15bae.png)
+
+#### Weekplanning
+![Schermafbeelding 2020-05-01 om 15 41 09](https://user-images.githubusercontent.com/45541885/80809702-8042d000-8bc2-11ea-8ef0-191f43500dae.png)
+
+#### Jaarplanning 
+![Schermafbeelding 2020-05-01 om 15 41 32](https://user-images.githubusercontent.com/45541885/80809713-86d14780-8bc2-11ea-8c3b-517a3e2450e5.png)
+
+#### Jaarplanning ingezoomed op 1 maand
+![Schermafbeelding 2020-05-01 om 15 41 51](https://user-images.githubusercontent.com/45541885/80809732-905aaf80-8bc2-11ea-8334-eb0e401b40fb.png)
 
 ## exclusive design principles en hoe heb ik deze toegepast
-#### Study situation
+### Study situation
 Het onderzoeken van de situatie heb ik gedaan door onder andere met Larissa te testen maar ook door haar persoonlijk te leren kennen. Op deze manier kon ik veel beter een website maken echt voor haar. Tijdens het itereren kon ik dingen toepassen die mij logisch leken voor haar door haar gedrag op de website van de vorige keer te observeren en hier notities van te maken. Bij de volgende test was ik dan ook erg nieuwsgierig wat zij van de aanpassingen vond. Op deze manier heb ik het hele vak zo gewerkt. Elke keer weer de situatie bestuderen. Dit deed ik ook als zij bij anderen ging testen en soms kwamen daar hele interessante dingen uit die ik ook weer mee nam zodat het alleen nog maar persoonlijker werd voor haar. 
 
-#### Ignore conventions
+### Ignore conventions
 Bepaalde standaarden heb ik wel meegenomen. Zoals het gebruik van semantisch correcte titels en kopjes. Andere dingen zoals teksten in p elementen zetten bleek niet altijd fijn te werken voor Larissa. Zo had ik in het jaar schema elke dag in een p element gezet. (Semantisch gezien is dit veel netter in een tabel in html maar omdat dit al helemaal niet werkt met een screen reader koos ik eerst voor p elementen.) Tussen elk stukje leest haar screen reader “leeg” voor wat ontzettend irritant was dus heb ik besloten om per week lijstje te maken met daarin de dagen als list items. Zo zag het er dan uit in html 
 ```
  
@@ -55,12 +66,12 @@ Daarnaast is de zinsopbouw soms ook wat anders dan wat je normaal gesproken zou 
 
 Dit soort teksten: 16 oktober leeg, woensdag, zou je ook niet snel op een website zien. Dit is heel kort en duidelijk. Dat heb ik gedaan om er voor te zorgen dat Larissa super snel kan weten of die dag belangrijk is of leeg. Daarom heb ik daar ook 1 woord voor gekozen.
 
-#### Prioritise identity 
+### Prioritise identity 
 Tijdens het testen probeerde ik Larissa er heel erg bij te betrekken. Ik vroeg vaak wat haar opviel, wat ze miste of wat ze juist fijn vond. Als ze feedback gaf op bepaalde dingen, probeerde ik vaak terug te vragen hoe zij het liever wilde hebben zodat ik het de volgende keer gelijk goed kon doen. Vaak had ze daar ook wel een goed idee van. 
 
 Door Larissa echt bij het proces te betrekken, elke week te testen en veel vragen te stellen heb ik echt het gevoel dat ik nu veel verder ben gekomen dan wanneer ik een project had waarbij zij niet zo betrokken is. 
 
-#### Add nonsense 
+### Add nonsense 
 Eerst had ik nonsense toegepast door gebruik te maken van de emojis. Deze werden door de screenreader heel grappig voorgelezen en Larissa moest tijdens het testen er ook erg om lachen. Ik vond de emojis toch wat te weinig en naar aanleiding van Vasilis heb ik toch wat meer gespeeld met de screenreader. Ik probeerde de emojis wat meer te laten leven. Zo had ik een lachende emoji in de titel en probeerde dus ook de screenreader aan het lachen te maken. Zo spelen met de screenreader was super leuk en ik merkte dingen die ik anders nooit door zou hebben. Dat merkte ik vooral toen ik probeerde te beatboxen met de screenreader want dan luister je veel meer en beter naar hoe de screenreader het uitspreekt. Dit hele experiment is voor mijn gevoel wel een beetje mislukt. Maar aan de andere kant heb ik wel lol gehad en geleerd over de screenreader wat ik wel weer heel leuk vind. De emojis heb ik niet helemaal weggelaten omdat Larissa dat wel heel leuk vond. Ik heb ze nu op de weekplanning pagina gezet. Ik vond ze daar wel goed bijpassen. Als je mijn hele documentatie wilt lezen over deze test kan dat hier: https://github.com/ManoukK/web-design-1920/wiki/Iteratie-van-test-3,-laatste-iteratie
 
 ## Features
